@@ -1,40 +1,65 @@
 {
-  "squadName" : "TESTE",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
+  "nome" : "Laiane Langa",
+  "apelido" : "laidrama",
+  "anoAventura" : 2022,
+  "cidade" : "Sapezal",
+  "estado" : "Mato Grosso",
+  "sigla"  : "MT",
+  "localAventura" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
+      "cidade" : "Nobres/Bom Jardim",
+      "estado" : "Mato Grosso",
+      "sigla"  :  "MT",
+      "locais" : [
+        "passeio quadriciclo",
+        "flutuação rio triste"
+      ]
+    },
+    {
+     "cidade" : "Tangara da Serra",
+      "estado" : "Mato Grosso",
+      "sigla"  :  "MT",
+      "locais" : [
+        "cachoeira do formoso"
+      ]
+    },
+    {
+     "cidade" : "Brasnorte",
+      "estado" : "Mato Grosso",
+      "sigla"  :  "MT",
+      "locais" : [
+        "rio do sangue"
+      ]
+    },
+    {
+     "cidade" : "Vila Bela Santissima Trindade",
+      "estado" : "Mato Grosso",
+      "sigla"  :  "MT",
+      "locais" : [
+        "ruínas da igreja matriz",
+        "cânion do jatobá",
+        "cascata dos namorados",
+        "cascatinha",
+        "cachoeira do jatobá",
+        "poço azul"
+      ]
+    },
+    {
+     "cidade" : "Campos de Julio",
+      "estado" : "Mato Grosso",
+      "sigla"  :  "MT",
+      "locais" : [
+        "lago do segredo"
+      ]
+    },
+    {
+      "cidade" : "Campo Novo Parecis",
+      "estado" : "Mato Grosso",
+      "sigla"  :  "MT",
+      "locais" : [
+        "salto do utiariti",
+        "cachoeira salto belo",
         "Radiation blast"
-      ]
-    },
-    {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
-    {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
       ]
     }
   ]
