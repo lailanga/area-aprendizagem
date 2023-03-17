@@ -2,11 +2,11 @@
   "nome" : "Laiane Langa",
   "apelido" : "laidrama",
   "bio" : "ano de 2022 foi de grande aprendizado e superação. também foi um ano de muito contato com a naturaza.",
-  "anoAventura" : 2022,
+  "ano" : 2022,
   "cidade" : "Sapezal",
   "estado" : "Mato Grosso",
   "sigla"  : "MT",
-  "localAventura" : [
+  "locais" : [
     {
       "cidade" : "Nobres/Bom Jardim",
       "estado" : "Mato Grosso",
