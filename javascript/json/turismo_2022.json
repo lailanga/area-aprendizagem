@@ -11,7 +11,7 @@
       "cidade" : "Nobres/Bom Jardim",
       "estado" : "Mato Grosso",
       "sigla"  :  "MT",
-      "locais" : [
+      "pontos" : [
         "passeio quadriciclo",
         "flutuação rio triste"
       ]
@@ -20,7 +20,7 @@
      "cidade" : "Tangara da Serra",
       "estado" : "Mato Grosso",
       "sigla"  :  "MT",
-      "locais" : [
+      "pontos" : [
         "cachoeira do formoso"
       ]
     },
@@ -28,7 +28,7 @@
      "cidade" : "Brasnorte",
       "estado" : "Mato Grosso",
       "sigla"  :  "MT",
-      "locais" : [
+      "pontos" : [
         "rio do sangue"
       ]
     },
@@ -36,7 +36,7 @@
      "cidade" : "Vila Bela Santissima Trindade",
       "estado" : "Mato Grosso",
       "sigla"  :  "MT",
-      "locais" : [
+      "pontos" : [
         "ruínas da igreja matriz",
         "cânion do jatobá",
         "cascata dos namorados",
@@ -49,7 +49,7 @@
      "cidade" : "Campos de Julio",
       "estado" : "Mato Grosso",
       "sigla"  :  "MT",
-      "locais" : [
+      "pontos" : [
         "lago do segredo"
       ]
     },
@@ -57,7 +57,7 @@
       "cidade" : "Campo Novo Parecis",
       "estado" : "Mato Grosso",
       "sigla"  :  "MT",
-      "locais" : [
+      "pontos" : [
         "salto do utiariti",
         "cachoeira salto belo",
         "Radiation blast"
