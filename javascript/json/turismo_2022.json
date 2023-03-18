@@ -6,11 +6,9 @@
   "cidade" : "Sapezal",
   "estado" : "Mato Grosso",
   "sigla"  : "MT",
-  "locais" : [
+  "mato grosso" : [
     {
       "cidade" : "Nobres/Bom Jardim",
-      "estado" : "Mato Grosso",
-      "sigla"  :  "MT",
       "pontos" : [
         "passeio quadriciclo",
         "flutuação rio triste"
@@ -18,24 +16,18 @@
     },
     {
      "cidade" : "Tangara da Serra",
-      "estado" : "Mato Grosso",
-      "sigla"  :  "MT",
       "pontos" : [
         "cachoeira do formoso"
       ]
     },
     {
      "cidade" : "Brasnorte",
-      "estado" : "Mato Grosso",
-      "sigla"  :  "MT",
       "pontos" : [
         "rio do sangue"
       ]
     },
     {
      "cidade" : "Vila Bela Santissima Trindade",
-      "estado" : "Mato Grosso",
-      "sigla"  :  "MT",
       "pontos" : [
         "ruínas da igreja matriz",
         "cânion do jatobá",
@@ -47,16 +39,12 @@
     },
     {
      "cidade" : "Campos de Julio",
-      "estado" : "Mato Grosso",
-      "sigla"  :  "MT",
       "pontos" : [
         "lago do segredo"
       ]
     },
     {
       "cidade" : "Campo Novo Parecis",
-      "estado" : "Mato Grosso",
-      "sigla"  :  "MT",
       "pontos" : [
         "salto do utiariti",
         "cachoeira salto belo",
