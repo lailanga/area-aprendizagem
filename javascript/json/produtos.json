@@ -1,0 +1,62 @@
+[
+	{
+		"nome" : "milho verde",
+		"valor" : 2.50,
+		"imagem" : "url",
+		"tipo" : "vegetariano"
+	},
+	{
+		"nome" : "ervilha",
+		"valor" : 3.80,
+		"imagem" : "url",
+		"tipo" : "vegetariano"
+	},
+	{
+		"nome" : "ovo de codorna",
+		"valor" : 8.90,
+		"imagem" : "url",
+		"tipo" : "vegetariano"
+	},
+	{
+		"nome" : "pepino",
+		"valor" : 7.15,
+		"imagem" : "url",
+		"tipo" : "vegetariano"
+	},
+	{
+		"nome" : "tomate",
+		"valor" : 6.32,
+		"imagem" : "url",
+		"tipo" : "vegetariano"
+	},
+	{
+		"nome" : "carne moida",
+		"valor" : 6.32,
+		"imagem" : "url",
+		"tipo" : "carne"
+	},
+	{
+		"nome" : "salsicha",
+		"valor" : 4.52,
+		"imagem" : "url",
+		"tipo" : "carne"
+	},
+	{
+		"nome" : "carne bovina",
+		"valor" : 8.52,
+		"imagem" : "url",
+		"tipo" : "carne"
+	},
+	{
+		"nome" : "sopa tomate",
+		"valor" : 3.42,
+		"imagem" : "url",
+		"tipo" : "sopa"
+	},
+	{
+		"nome" : "sopa frango",
+		"valor" : 2.42,
+		"imagem" : "url",
+		"tipo" : "sopa"
+	}
+]
