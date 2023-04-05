@@ -2,61 +2,61 @@
 	{
 		"nome" : "milho verde",
 		"valor" : 2.50,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/spam.jpg",
 		"tipo" : "vegetariano"
 	},
 	{
 		"nome" : "ervilha",
 		"valor" : 3.80,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/gardenpeas.jpg",
 		"tipo" : "vegetariano"
 	},
 	{
 		"nome" : "ovo de codorna",
 		"valor" : 8.90,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/spam.jpg",
 		"tipo" : "vegetariano"
 	},
 	{
 		"nome" : "pepino",
 		"valor" : 7.15,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/spam.jpg",
 		"tipo" : "vegetariano"
 	},
 	{
 		"nome" : "tomate",
 		"valor" : 6.32,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/tomato.jpg",
 		"tipo" : "vegetariano"
 	},
 	{
 		"nome" : "carne moida",
 		"valor" : 6.32,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/cornedbeef.jpg",
 		"tipo" : "carne"
 	},
 	{
 		"nome" : "salsicha",
 		"valor" : 4.52,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/hotdogs.jpg",
 		"tipo" : "carne"
 	},
 	{
 		"nome" : "carne bovina",
 		"valor" : 8.52,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/cornedbeef.jpg",
 		"tipo" : "carne"
 	},
 	{
 		"nome" : "sopa tomate",
 		"valor" : 3.42,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/tomatosoup.jpg",
 		"tipo" : "sopa"
 	},
 	{
 		"nome" : "sopa frango",
 		"valor" : 2.42,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/beans.jpg",
+		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/chickennoodle.jpg",
 		"tipo" : "sopa"
 	}
 ]
