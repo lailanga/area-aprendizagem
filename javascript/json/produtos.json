@@ -14,13 +14,13 @@
 	{
 		"nome" : "ovo de codorna",
 		"valor" : 8.90,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/spam.jpg",
+		"imagem" : "https://raw.githubusercontent.com/lailanga/area-aprendizagem/main/imagem/ovocodorna.png",
 		"tipo" : "vegetariano"
 	},
 	{
 		"nome" : "pepino",
 		"valor" : 7.15,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/spam.jpg",
+		"imagem" : "https://raw.githubusercontent.com/lailanga/area-aprendizagem/main/imagem/pepino.png",
 		"tipo" : "vegetariano"
 	},
 	{
