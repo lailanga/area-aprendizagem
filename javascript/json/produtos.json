@@ -32,7 +32,7 @@
 	{
 		"nome" : "carne moida",
 		"valor" : 6.32,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/cornedbeef.jpg",
+		"imagem" : "https://raw.githubusercontent.com/lailanga/area-aprendizagem/main/imagem/carnemoida2.png",
 		"tipo" : "carne"
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"nome" : "carne bovina",
 		"valor" : 8.52,
-		"imagem" : "https://raw.githubusercontent.com/mdn/learning-area/main/javascript/apis/fetching-data/can-store/images/cornedbeef.jpg",
+		"imagem" : "https://raw.githubusercontent.com/lailanga/area-aprendizagem/main/imagem/carnelata.png",
 		"tipo" : "carne"
 	},
 	{
