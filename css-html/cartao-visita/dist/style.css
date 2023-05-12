@@ -1,0 +1,78 @@
+/* estilos gerais */
+body,
+h2 {
+  margin: 0;
+}
+html {
+  font-family: "Roboto", sans-serif;
+  /* https://cssgradient.io/ */
+  background: rgb(4, 3, 22);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(4, 3, 22, 0.9836309523809523) 0%,
+    rgba(12, 12, 62, 1) 78%,
+    rgba(4, 3, 22, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(4, 3, 22, 0.9836309523809523) 0%,
+    rgba(12, 12, 62, 1) 78%,
+    rgba(4, 3, 22, 1) 100%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(4, 3, 22, 0.9836309523809523) 0%,
+    rgba(12, 12, 62, 1) 78%,
+    rgba(4, 3, 22, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#040316",endColorstr="#040316",GradientType=1);
+}
+/* seletores */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 80vh;
+}
+.child {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://raw.githubusercontent.com/lailanga/area-aprendizagem/main/imagem/cloud.png)
+    repeat-x;
+  animation: slide 80s linear infinite;
+}
+.car {
+  position: absolute;
+  width: 450px;
+  height: 250px;
+  border: 0.2em solid #fff;
+  background-color: #d6d6e2;
+}
+.car .header {
+  display: flex;
+  justify-content: center;
+}
+.car .header div {
+  margin-top: 8%;
+}
+.car .img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 20px 20px 0 0;
+  border: 0.2em solid black;
+}
+.social {
+  margin: 9% 20px 0 0;
+}
+
+@keyframes slide {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-1200px, 0, 0);
+  }
+}
