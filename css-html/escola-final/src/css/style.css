@@ -1,0 +1,166 @@
+:root {
+  --body-bg: #fafafa;
+  --body-color: #555;
+  --link-color: #222;
+  --link-color-hover: rgba(207, 232, 220, 0.7);
+}
+.dark-mode:root {
+  --body-bg: #212529;
+  --body-color: #899095;
+  --link-color: #dee2e6;
+  --link-color-hover: rgba(207, 232, 220, 0.7);
+}
+* {
+  box-sizing: border-box;
+   
+}
+body {
+  width: 90%;
+  margin: 2em auto;
+  font: 1em/1.3 Arial, Helvetica, sans-serif;
+  background-color: var(--body-bg);
+  color: var(--body-color);
+}
+a:link,
+a:visited {
+  color: var(--link-color);
+}
+nav ul,
+aside ul {
+  list-style: none;
+  padding: 0;
+}
+nav a:link,
+nav a:visited {
+  /*background-color: rgba(207, 232, 220, 0.2);
+  border: 2px solid rgb(79, 185, 227);*/
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  color:var(--link-color);
+  font-weight: bold;
+}
+nav a:hover {
+  background-color:var(--link-color-hover);
+}
+picture img {
+  max-width: 100%;
+}
+.menu {
+  visibility: hidden;
+  height: 1em;
+}
+footer {
+  border-top: 1px solid #ccc;
+}
+
+/* button pm/am  referência https://codepen.io/alvarotrigo/pen/jOaXGKy?editors=1100 */
+.pm {
+  margin: 0.1em 0 0 14em;
+  position: absolute;
+}
+.switch {
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+.switch input {
+  margin: 1em;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+input:checked + .slider {
+  background-color: #2196F3;
+}
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+.slider.round {
+  border-radius: 34px;
+}
+.slider.round:before {
+  border-radius: 50%;
+}
+/* ---- */
+
+@media screen and (min-width: 40em) {
+  .topo,
+  button span,
+  nav ul {
+    display: flex;
+  }
+  nav ul {
+    width: 55em;
+    margin: 3.5em 0 0 0;
+  }
+  nav li {
+    flex: auto;
+    text-align: center;
+  }
+  picture img {
+    max-height: 80%;
+    margin: -0.5em 0 0 1.7em;
+  }
+  footer p{
+    text-align: right;
+  }
+  button {
+    visibility: hidden;
+    width: 0px;
+    margin: 0 0 0 -1.8em;
+  }
+  .menu {
+    visibility: visible;
+  }
+  .pm {
+    margin: 0 0 0 0;
+  }
+}
+
+@media screen and (min-width: 70em) {
+  main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    column-gap: 20px;
+  }
+  aside {
+    margin-bottom: 0;
+  }
+  footer {
+    border-top: 1px solid #ccc;
+    margin-top: 2em;
+  }
+  footer p{
+    text-align: right;
+  }
+  /*testar
+  picture img {
+    max-height: 80%;
+    margin: -0.5em 0 0 1.7em;
+  }*/
+}
