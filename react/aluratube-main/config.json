@@ -1,0 +1,34 @@
+{
+    "name": "Laiane Langa (LaiDrama)",
+    "job": "Analista Suporte Pleno",
+    "bg": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "github": "lailanga",
+    "favorites": [
+        {
+            
+        }
+    ],
+    "playlists": {
+        "podcasts": [
+            {
+                "title": "PEDRO SCOOBY - Podpah #251",
+                "url": "https://www.youtube.com/watch?v=T76XPvh-sh8",
+                "thumb": "https://img.youtube.com/vi/T76XPvh-sh8/hqdefault.jpg"
+            }
+        ],
+        "dev": [
+            {
+                "title": "PEDRO SCOOBY - Podpah #251",
+                "url": "https://www.youtube.com/watch?v=T76XPvh-sh8",
+                "thumb": "https://img.youtube.com/vi/T76XPvh-sh8/hqdefault.jpg"
+            }
+        ],
+        "tarot": [
+            {
+                "title": "* PEIXES * 2023 * 🥂🎉 // geral * trabalho * amor",
+                "url": "https://www.youtube.com/watch?v=SACSfdvVwbM",
+                "thumb": "https://img.youtube.com/vi/SACSfdvVwbM/hqdefault.jpg"
+            }
+        ]
+    }
+}
