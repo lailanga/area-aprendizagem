@@ -1,0 +1,10 @@
+site:
+  title: "Laiane Langa - TimeLine"
+  description: "Bem vindo a minha timeLine pessoal"
+personal:
+  name: "Laiane Langa"
+  avatar: "https://github.com/lailanga.png"
+  socialNetworks:
+    instagram: "https://www.instagram.com/laianelanga"
+    github: "https://github.com/lailanga"
+    twitter: "https://twitter.com/langalai"
