@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  ont-family: "Roboto Mono", monospace;
+}
+h1 {
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+p {
+  margin-bottom: 3%;
+  margin-top: 2%;
+  text-align: center;
+}
+img {
+  float: left;
+  margin-top: -6%;
+}
+body {
+  overflow: hidden;
+  color: #000;
+  text-align: center;
+}
+canvas {
+  width: 80vw;
+  height: 70vh;
+  border: 1px solid black;
+}

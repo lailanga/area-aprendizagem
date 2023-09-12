@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto Mono", monospace;
+  background: rgb(4, 3, 22);
+  background: linear-gradient(
+    90deg,
+    rgba(4, 3, 22, 0.9836309523809523) 0%,
+    rgba(19, 19, 88, 1) 78%,
+    rgba(6, 37, 43, 1) 100%
+  );
+  height: 100vh;
+}
+.container {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+h3 {
+  margin-top: 8%;
+  margin-bottom: 40px;
+  color: #ffffff;
+}
+.logo span {
+  width: 100%;
+  font-size: 22px;
+  display: block;
+  text-transform: uppercase;
+  color: #FFFF00;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.descricao {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 3%;
+}
+input {
+  margin-top: 20px;
+  width: 40%;
+  height: 35px;
+  font-size: 15px;
+  text-align: center;
+  border: 3px solid #0074bd;
+  color: #0074bd;
+  background: #f2f2f2;
+  outline: none;
+}
+#chute {
+  display: block;
+  width: 100%;
+  height: 30px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  text-transform: uppercase;
+  background: transparent;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+#placar {
+  color: #fff;
+}
+.marca {
+  background-image: url("https://imgcloud.com.br/share/hD2zPYKxOwN7uXi0");
+  height: 21%;
+  width: 100%;
+}
+#reset {
+  color: #fff;
+  display: block;
+  width: 100%;
+  height: 30px;
+  font-size: 45px;
+  border: none;
+  transition: 100ms;
+  background: transparent;
+  text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.1),
+    1px 1px 1px rgba(0, 0, 0, 0.5);
+  visibility: hidden;
+}
+#reset:hover {
+  color: #0074bd;
+}
+#reset:active {
+  transform: rotate(90deg);
+  color: #a68500;
+  text-shadow: none;
+  margin: 8% 0 0 0;
+}
+
+ul > li {
+    display: inline-block;
+}
+#tentativas {
+  color: #fff;
+  width: 100%;
+  margin: 5% 0 5% 0
+}
+#tentativas li {
+  margin-right: 10px;
+}

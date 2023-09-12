@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/76785fb994.js" crossorigin="anonymous"></script>
+    <script src="scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css" /> 
+    <title>Adivinhe o número secreto</title>
+</head>
+<body>
+  <header class='marca'></header>
+  <div class='container'>
+    <h3>Jogo - Adivinhe o número secreto</h3>
+    <div class='logo'>
+      <p class="descricao">Você tem 10 tentativas para acertar o número secreto.</p>
+      <p class="descricao">Dica: é número entre 0 e 100</p>
+      <span></span>
+      <input type="number" placeholder="digite seu palpite" id="palpite" max='100' min='0' />
+      <button id="reset"><i class="fas fa-sync-alt"></i></button>
+      <button id="chute">Chutar</button>
+      <div id="placar"></div>
+      <ul id="tentativas"></ul>
+    </div>
+  </div>
+  <footer class='marca'></footer>
+</body>
+</html>
