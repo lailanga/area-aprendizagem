@@ -1,0 +1,65 @@
+[
+    {
+        "category": "Fruta",
+        "id": "1",
+        "price": 1.10,
+        "stocked": true,
+        "name": "Abacate"
+    },
+    {
+        "category": "Fruta",
+        "id": "2",
+        "price": 2.18,
+        "stocked": true,
+        "name": "Abacaxi"
+    },
+    {
+        "category": "Fruta",
+        "id": "3",
+        "price": 2.18,
+        "stocked": true,
+        "name": "Morango"
+    },
+    {
+        "category": "Verdura",
+        "id": "4",
+        "price": 8.10,
+        "stocked": true,
+        "name": "Alface"
+    },
+    {
+        "category": "Verdura",
+        "id": "5",
+        "price": 6.52,
+        "stocked": true,
+        "name": "Repolho"
+    },
+    {
+        "category": "Verdura",
+        "id": "6",
+        "price": 0.18,
+        "stocked": true,
+        "name": "Espinafre"
+    },
+    {
+        "category": "Legume",
+        "id": "7",
+        "price": 19.10,
+        "stocked": true,
+        "name": "Arroz"
+    },
+    {
+        "category": "Legume",
+        "id": "8",
+        "price": 0.88,
+        "stocked": true,
+        "name": "Batata"
+    },
+    {
+        "category": "Legume",
+        "id": "9",
+        "price": 3.25,
+        "stocked": true,
+        "name": "Milho"
+    }
+]
